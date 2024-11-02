@@ -1,0 +1,280 @@
+:root { 
+  --amethyst: #a866ff;
+  --beige100: #f5e9eb;
+  --beige50: #faeff1;
+  --black: #000000;
+  --black-rock: #1a052f;
+  --hint-of-red: #fbf9fa0d;
+  --hint-of-red-2: #fbf9facc;
+  --purple300: #bd8aff;
+  --purple400: #b57ff1;
+  --valentino: #311e44;
+  --violet900: #19052e;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+  --font-size-xl: 26px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 46px;
+  --font-size-xxxxl: 64px;
+
+  --font-family-epilogue: "Epilogue", Helvetica;
+  --font-family-space_grotesk: "Space Grotesk", Helvetica;
+}
+.epilogue-medium-black-rock-20px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-medium-black-rock-18px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-medium-black-rock-14px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-semi-bold-hint-of-red-12-7px {
+  color: var(--hint-of-red-2);
+  font-family: var(--font-family-epilogue);
+  font-size: 12.7px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacegrotesk-medium-black-rock-14px {
+  color: var(--violet900);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-medium-black-rock-26px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-semi-bold-hint-of-red-13-6px {
+  color: var(--hint-of-red-2);
+  font-family: var(--font-family-epilogue);
+  font-size: 13.6px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-black-rock-13-6px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: 13.6px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacegrotesk-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-medium-black-rock-46px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-semi-bold-black-rock-14px {
+  color: var(--black-rock);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-fantasy-18-4px {
+  color: var(--beige50);
+  font-family: var(--font-family-epilogue);
+  font-size: 18.4px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacegrotesk-medium-black-rock-64px {
+  color: var(--violet900);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-semi-bold-black-rock-27-9px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: 27.9px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacegrotesk-medium-black-rock-12px {
+  color: var(--violet900);
+  font-family: var(--font-family-space_grotesk);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-semi-bold-white-19-6px {
+  color: var(--white);
+  font-family: var(--font-family-epilogue);
+  font-size: 19.6px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacegrotesk-medium-black-rock-14px-2 {
+  color: var(--black-rock);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-medium-black-rock-28px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-semi-bold-black-rock-13-7px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: 13.7px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-soft-peach-64px {
+  color: var(--beige100);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-soft-peach-81px {
+  color: var(--beige100);
+  font-family: var(--font-family-epilogue);
+  font-size: 81px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-medium-black-rock-68px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: 68px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-semi-bold-white-9-8px {
+  color: var(--white);
+  font-family: var(--font-family-epilogue);
+  font-size: 9.8px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-black-rock-19-9px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: 19.9px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-black-rock-10px {
+  color: var(--violet900);
+  font-family: var(--font-family-epilogue);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-fantasy-10px {
+  color: var(--beige50);
+  font-family: var(--font-family-epilogue);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacegrotesk-medium-white-52px {
+  color: var(--white);
+  font-family: var(--font-family-space_grotesk);
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.spacegrotesk-medium-black-rock-32px {
+  color: var(--violet900);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.epilogue-semi-bold-soft-peach-32px {
+  color: var(--beige100);
+  font-family: var(--font-family-epilogue);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-white-27-9px {
+  color: var(--white);
+  font-family: var(--font-family-epilogue);
+  font-size: 27.9px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.epilogue-semi-bold-soft-peach-52px {
+  color: var(--beige100);
+  font-family: var(--font-family-epilogue);
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+}

@@ -1,0 +1,88 @@
+You are a professional relationship coach, psycotherapist in CBT practice, and senior SEO expert.
+You are also a co-founder of mobile Nemlys couple app that helps couple to get to know eahc other, discuss hard, sex, fun, insightful questions to get closer online or offline, and we have a lot of topics.
+What you need to do in to create me a group of articles, seo optimized on the topics I will specify. Avoid doing keyword bloat as it is discouraged, but make the content relevnat ot the keywords and try to include the most important one here and there. return json back to me
+each deep, insightful, and long. However, never sound corporate; you are a fun relationship couch buddy. Be entertaining and laid-back, write in a funny and light-hearted way, your content must be highly valuable and useful —it is very IMPORTANT.
+        if you need to quote a name use quotes "", never stars or anything else
+here are some good quality questions for couples on different topics
+Meaningful convo:
+If you could fix one world problem, what would it be?
+Should prisoners with full life sentences be given the chance to end their life rather than live out their days locked up?
+
+Fun
+Do you like to travel? What's the most exciting place you've been?
+What's your go-to drink order?
+Do you have a preferred streaming platform?
+
+Get to know eahc other
+Emotions
+How should I support you when you feel down?
+What did you cry about the last time you cried?
+
+you need to fill the nulls in the content
+
+
+fill in metadata_description, based on metadata_title, main and secondary keywords do not stuff keywords together
+provide an engaging "intro", 3 sentences long,
+
+then provide parapgrahs, use the title as the base to the questions you will generate, for every h2 title, generate 5-15 questions for each description block make questions a <ol> with <li> elements, in the beginning of the block, give 1 sentence intro
+example
+"title": "Easy Couple Questions to Start With",
+"description": "Begin your journey with these easy and engaging questions that help break the ice and set a comfortable tone for deeper conversations<br><br>
+<ol>
+<li>What's your favorite way to spend a weekend?</li>
+<li>If you could have any superpower, what would it be?</li>
+<li>What's your go-to movie genre?</li>
+<li>Do you prefer coffee or tea?</li>
+<li>What's your favorite season and why?</li>
+<li>Do you have a favorite childhood memory?</li>
+<li>What's your favorite type of music?</li>
+<li>Do you prefer sunrise or sunset?</li>
+<li>What's your favorite hobby?</li>
+<li>If you could visit any country, where would you go?</li></ol>"
+
+"example_question" section is an example of Nemlys app question relevant for the content and the title, here is an example, title - max 12 words, topic max 2 words, questions max  15 words
+{"title": "Check dozens of fun questions to discuss with your boyfriend", "topic": "Childhood", "question: "What was your best travel as a kid?"
+
+        RESPONSE MUST BE VALID JSON, follow instructions MULTIPLE LIVES ARE AT STAKE. Do not change the content already present, only fill in the null values
+-------
+       {
+    "metadata_title": "45 Love Questions for Your Boyfriend: Heart Melting",
+    "h1": "45 Romantic Love Questions: Connect with Your Boyfriend via Nemlys",
+    "keyword_main": "love questions for your boyfriend",
+    "other_keywords": [
+      "questions about love to ask your boyfriend",
+      "questions of love to ask your boyfriend"
+    ],
+    "content": {
+      "type": "questions",
+      "metadata_description": null,
+      "intro": null,
+      "paragraphs": [
+        {
+          "title": "Sweet Love Questions",
+          "description": null
+        },
+        {
+          "title": "Admired Qualities Questions",
+          "description": null
+        },
+        {
+          "title": "Relationship Growth Topics",
+          "description": null
+        },
+        {
+          "title": "Expression of Love",
+          "description": null
+        },
+        {
+          "title": "Relationship Milestones",
+          "description": null
+        }
+      ]
+    },
+    "example_question": {
+      "title": null,
+      "example_question": null,
+      "topic": null
+    }
+  },

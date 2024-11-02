@@ -1,0 +1,1698 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Epilogue:500,600|Space+Grotesk:500");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/671abbb03c2b827d9d5a140d.671abbb13c2b827d9d5a1410.fr3eyQk.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app-icon {
+  height: 34px;
+  width: 34px;
+}
+
+.frame-1948756545 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948756524 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 74px;
+  position: relative;
+  width: 100%;
+}
+
+.auto-layout-vertical-1 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 24px;
+  width: 100%;
+}
+
+.category {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  opacity: 0.5;
+  position: relative;
+  text-align: center;
+}
+
+.auto-layout-vertical-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 40px;
+  flex: 0 0 auto;
+  gap: 56px;
+  padding: 40px 180px 70px;
+  width: 100%;
+}
+
+.auto-layout-horizontal-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.rectangle {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.auto-layout-vertical-3 {
+  align-items: flex-start;
+  gap: 8px;
+  width: 243px;
+}
+
+.by-hemant-chenault {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.auto-layout-vertical-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 56px;
+  width: 100%;
+}
+
+.auto-layout-vertical-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 24px;
+  width: 100%;
+}
+
+.auto-layout-vertical-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 8px;
+  width: 100%;
+}
+
+.text {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-1948756429 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 140px;
+  padding: 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.group-8171 {
+  height: 12.03px;
+  position: relative;
+  width: 12.03px;
+}
+
+.type {
+  letter-spacing: 0.10px;
+  line-height: 12.0px;
+  opacity: 0.5;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icons {
+  height: 14.61px;
+  margin-bottom: -3.26px;
+  margin-left: -11.78px;
+  margin-right: -11.78px;
+  margin-top: -3.26px;
+  position: relative;
+  width: 14.61px;
+}
+
+.button-1 {
+  align-items: center;
+  background-color: var(--violet900);
+  border-radius: 24.9px;
+  display: flex;
+  gap: 1.25px;
+  justify-content: center;
+  padding: 16.19px 24.9px;
+  position: relative;
+  width: 138.95px;
+}
+
+.action {
+  letter-spacing: 0.10px;
+  line-height: 12.5px;
+  margin-top: -0.62px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-44 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.badge-i-os {
+  cursor: pointer;
+  height: 58px;
+  position: relative;
+  width: 218px;
+}
+
+.frame-1948756427 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 1038px;
+}
+
+.frame-1948756542 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948756537 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.frame-79 {
+  height: 56px;
+  position: relative;
+  width: 24.89px;
+}
+
+.frame-1948756538 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.trusted-by-60000-couples {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.star-streamline-block-free {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.recent-reviews-about-nemlys-app {
+  align-self: stretch;
+  letter-spacing: -3.20px;
+  line-height: 67.7px;
+  position: relative;
+  text-align: center;
+}
+
+.i-use-nemlys-with-my {
+  align-self: stretch;
+  letter-spacing: -0.36px;
+  line-height: 26px;
+  position: relative;
+}
+
+.frame-19487564-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.nemlys-is-great-for {
+  align-self: stretch;
+  letter-spacing: -0.36px;
+  line-height: 26px;
+  position: relative;
+}
+
+.my-boyfriend-and-i-l {
+  align-self: stretch;
+  letter-spacing: -0.36px;
+  line-height: 26px;
+  position: relative;
+}
+
+.frame-1948756426 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 1038px;
+}
+
+.similar-posts {
+  align-self: stretch;
+  letter-spacing: -3.20px;
+  line-height: 67.7px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.frame-1948756421-1 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 25px;
+  width: 100%;
+}
+
+.frame-1948756421-item {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 40px;
+  flex-direction: column;
+  height: 337px;
+  justify-content: space-between;
+  padding: 40px;
+  width: 328px;
+}
+
+.frame-1948756422 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.expat-life-making-f {
+  align-self: stretch;
+  letter-spacing: -0.56px;
+  line-height: 32px;
+  position: relative;
+}
+
+.group-1948755469-1 {
+  height: 45px;
+  position: relative;
+  width: 45px;
+}
+
+.footer {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: var(--violet900);
+  border-radius: 30px;
+  display: flex;
+  gap: 10px;
+  height: 880.88px;
+  justify-content: center;
+  padding: 0px 37px;
+  position: relative;
+  width: 100%;
+}
+
+.group-1948755476 {
+  height: 133.95px;
+  position: relative;
+  width: 611.79px;
+}
+
+.select-1 {
+  align-self: flex-end;
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  flex-direction: column;
+  gap: 12.68px;
+  height: 49px;
+  justify-content: center;
+  margin-left: 23px;
+  padding: 19.03px;
+  position: relative;
+  transform: rotate(-2.96deg);
+  width: 81px;
+}
+
+.label-1 {
+  letter-spacing: 0.13px;
+  line-height: 15.9px;
+}
+
+.select-2 {
+  align-self: flex-start;
+  background-color: var(--purple300);
+  border-radius: 15.86px;
+  box-shadow: 0px 3.55px 21.32px #1a052f26;
+  flex-direction: column;
+  gap: 12.68px;
+  height: 49px;
+  justify-content: center;
+  margin-left: 21px;
+  padding: 19.03px;
+  position: relative;
+  transform: rotate(4.64deg);
+  width: 149px;
+}
+
+.select-3 {
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  flex-direction: column;
+  gap: 12.68px;
+  height: 49px;
+  justify-content: center;
+  margin-left: 17px;
+  margin-top: 1.1px;
+  padding: 19.03px;
+  position: relative;
+  transform: rotate(-4.00deg);
+  width: 123px;
+}
+
+.label-2 {
+  letter-spacing: 0.13px;
+  line-height: 15.9px;
+  margin-left: -0.13px;
+  margin-right: -0.13px;
+}
+
+.select-container-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 65px;
+  left: 2px;
+  min-width: 608px;
+  position: absolute;
+  top: 65px;
+}
+
+.select-4 {
+  align-self: center;
+  background-color: var(--purple300);
+  border-radius: 17.07px;
+  box-shadow: 0px 3.55px 21.32px #1a052f26;
+  flex-direction: column;
+  gap: 13.66px;
+  height: 49px;
+  justify-content: center;
+  margin-top: 4.61px;
+  padding: 20.48px;
+  position: relative;
+  transform: rotate(-4.00deg);
+  width: 100px;
+}
+
+.label-3 {
+  letter-spacing: 0.14px;
+  line-height: 16.9px;
+  margin-bottom: -0.05px;
+  margin-left: -0.34px;
+  margin-right: -0.34px;
+  margin-top: -1.76px;
+}
+
+.select-5 {
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  flex-direction: column;
+  gap: 12.68px;
+  height: 49px;
+  justify-content: center;
+  margin-left: 19px;
+  padding: 19.03px;
+  position: relative;
+  transform: rotate(-3.10deg);
+  width: 141px;
+}
+
+.label-4 {
+  letter-spacing: 0.13px;
+  line-height: 15.9px;
+  margin-left: -0.23px;
+  margin-right: -0.23px;
+}
+
+.select-6 {
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  flex-direction: column;
+  gap: 12.68px;
+  height: 49px;
+  justify-content: center;
+  margin-bottom: 3.94px;
+  margin-left: 12px;
+  padding: 19.03px;
+  position: relative;
+  transform: rotate(-4.59deg);
+  width: 91px;
+}
+
+.label-5 {
+  letter-spacing: 0.13px;
+  line-height: 15.9px;
+  margin-left: -0.31px;
+  margin-right: -0.31px;
+}
+
+.select-7 {
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  flex-direction: column;
+  gap: 12.68px;
+  height: 49px;
+  justify-content: center;
+  margin-bottom: 3.53px;
+  margin-left: 16px;
+  padding: 19.03px;
+  position: relative;
+  transform: rotate(-1.49deg);
+  width: 103px;
+}
+
+.select-8 {
+  align-self: flex-start;
+  background-color: var(--purple300);
+  border-radius: 17.07px;
+  box-shadow: 0px 3.58px 21.47px #1a052f26;
+  flex-direction: column;
+  gap: 13.66px;
+  height: 49px;
+  justify-content: center;
+  margin-left: 16px;
+  padding: 20.48px;
+  position: relative;
+  transform: rotate(-5.53deg);
+  width: 109px;
+}
+
+.label-6 {
+  letter-spacing: 0.14px;
+  line-height: 17.1px;
+  margin-bottom: -0.05px;
+  margin-left: -0.10px;
+  margin-right: -0.10px;
+  margin-top: -1.76px;
+}
+
+.frame-container {
+  height: 158px;
+  position: relative;
+  width: 663px;
+}
+
+.frame-1948756414 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  justify-content: center;
+  left: 242px;
+  position: absolute;
+  top: 51px;
+  width: 178px;
+}
+
+.frame-1948756535 {
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 663px;
+}
+
+.android-vector-1-3 {
+  height: 39.2px;
+  position: relative;
+  width: 121.18px;
+}
+
+.auto-layout {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.by {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.frame-1948756547 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--beige100);
+  border-radius: 0px 0px 12px 12px;
+  display: flex;
+  height: 66px;
+  justify-content: space-between;
+  overflow: hidden;
+  padding: 10px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.app-icon-2 {
+  height: 34px;
+  width: 34px;
+}
+
+.badge-i-os-1-1 {
+  cursor: pointer;
+  height: 46px;
+  position: relative;
+  width: 46px;
+}
+
+.badge-android-3 {
+  background-color: var(--white);
+  border-radius: 42.3px;
+  gap: 10.31px;
+  height: 46px;
+  padding: 6.34px 20.62px;
+  width: 46px;
+}
+
+.frame-1948756 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.category-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  opacity: 0.5;
+  position: relative;
+  text-align: center;
+}
+
+.auto-layout-horizontal-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+}
+
+.auto-layout-horizontal-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.rectangle-1 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.by-hemant-chenault-1 {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.text-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-1948755464 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--violet900);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  height: 1040.41px;
+  padding: 60px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948756548 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 311px;
+}
+
+.group-8094-3 {
+  height: 24.06px;
+  position: relative;
+  width: 100.96px;
+}
+
+.app-icon-3 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.group-1948755481 {
+  background-image: url(../blog/img/image.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 551.92px;
+  position: relative;
+  width: 291px;
+}
+
+.button-2 {
+  background-color: var(--beige100);
+  border-radius: 22.62px;
+  gap: 1.13px;
+  height: 36.92px;
+  padding: 14.7px 22.62px;
+  width: 36.92px;
+}
+
+.icons-1 {
+  height: 13.57px;
+  margin-bottom: -3.03px;
+  margin-left: -10.94px;
+  margin-right: -10.94px;
+  margin-top: -3.03px;
+  position: relative;
+  width: 13.57px;
+}
+
+.button-3 {
+  background-color: var(--violet900);
+  border-radius: 23.14px;
+  gap: 1.16px;
+  padding: 15.04px 23.14px;
+  width: 129.09px;
+}
+
+.action-1 {
+  color: var(--beige50);
+  font-family: var(--font-family-epilogue);
+  font-size: 9.3px;
+  font-weight: 600;
+  letter-spacing: 0.09px;
+  line-height: 11.6px;
+  margin-top: -0.58px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.badge-i-os-2 {
+  cursor: pointer;
+  height: 58px;
+  position: relative;
+  width: 218px;
+}
+
+.anroid-svg-4 {
+  height: 33.49px;
+  position: relative;
+  width: 29.95px;
+}
+
+.frame-1948756-1 {
+  align-items: center;
+  gap: 24px;
+}
+
+.frame-1948756542-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948756537-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.frame-79-1 {
+  height: 56px;
+  position: relative;
+  width: 24.89px;
+}
+
+.frame-1948756538-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.trusted-by-60000-couples-1 {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.star-streamline-block-free-1 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.recent-reviews-about-nemlys-app-1 {
+  align-self: stretch;
+  letter-spacing: -1.60px;
+  line-height: 40px;
+  position: relative;
+  text-align: center;
+}
+
+.frame-1948756-2 {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.frame-19487564-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 40px;
+  flex-direction: column;
+  gap: 24px;
+  padding: 40px;
+}
+
+.i-use-nemlys-with-my-1 {
+  align-self: stretch;
+  letter-spacing: -0.36px;
+  line-height: 26px;
+  position: relative;
+}
+
+.frame-19487564-3 {
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+.frame-1948756405-5 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.by-mark-1 {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.nemlys-is-great-for-1 {
+  align-self: stretch;
+  letter-spacing: -0.36px;
+  line-height: 26px;
+  position: relative;
+}
+
+.frame-1948756405-6 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.by-anna-1 {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.my-boyfriend-and-i-l-1 {
+  align-self: stretch;
+  letter-spacing: -0.36px;
+  line-height: 26px;
+  position: relative;
+}
+
+.frame-1948756405-7 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.by-james-1 {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.frame-1948756426-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.similar-posts-1 {
+  align-self: stretch;
+  letter-spacing: -1.60px;
+  line-height: 40px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.frame-1948756421-item-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 40px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948755474 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 62px;
+  position: relative;
+}
+
+.frame-1948756536 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  justify-content: center;
+  position: relative;
+  width: 177.78px;
+}
+
+.anroid-svg-5 {
+  height: 33.49px;
+  position: relative;
+  width: 29.95px;
+}
+
+.frame-1948756550 {
+  align-self: stretch;
+  height: 158px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948756-3 {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.app-icon-4 {
+  height: 34px;
+  width: 34px;
+}
+
+.badge-i-os-1-2 {
+  cursor: pointer;
+  height: 46px;
+  position: relative;
+  width: 46px;
+}
+
+.badge-android-5 {
+  background-color: var(--white);
+  border-radius: 42.3px;
+  gap: 10.31px;
+  height: 46px;
+  padding: 6.34px 20.62px;
+  width: 46px;
+}
+
+.anroid-svg-6 {
+  height: 22.32px;
+  margin-left: -7.60px;
+  margin-right: -7.60px;
+  position: relative;
+  width: 19.96px;
+}
+
+.frame-1948756545-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.category-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  opacity: 0.5;
+  position: relative;
+  text-align: center;
+}
+
+.auto-layout-horizontal-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.auto-layout-horizontal-5 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.rectangle-2 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.by-hemant-chenault-2 {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.text-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-1948756429-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 140px;
+  padding: 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948755464-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--violet900);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  height: 1148.38px;
+  justify-content: center;
+  padding: 41px 125px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948756552 {
+  gap: 56px;
+}
+
+.frame-43 {
+  gap: 46px;
+  justify-content: center;
+}
+
+.group-8094-5 {
+  height: 24.06px;
+  position: relative;
+  width: 100.96px;
+}
+
+.app-icon-5 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.group-1948755480-1 {
+  background-image: url(../blog/img/image.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 594.07px;
+  position: relative;
+  width: 313.22px;
+}
+
+.group-8171-2 {
+  height: 12.03px;
+  position: relative;
+  width: 12.03px;
+}
+
+.button-4 {
+  background-color: var(--beige100);
+  border-radius: 24.34px;
+  gap: 1.22px;
+  height: 39.74px;
+  padding: 15.82px 24.34px;
+  width: 39.74px;
+}
+
+.icons-2 {
+  height: 14.61px;
+  margin-bottom: -3.26px;
+  margin-left: -11.78px;
+  margin-right: -11.78px;
+  margin-top: -3.26px;
+  position: relative;
+  width: 14.61px;
+}
+
+.button-5 {
+  background-color: var(--violet900);
+  border-radius: 24.9px;
+  gap: 1.25px;
+  padding: 16.19px 24.9px;
+  width: 138.95px;
+}
+
+.action-2 {
+  letter-spacing: 0.10px;
+  line-height: 12.5px;
+  margin-top: -0.62px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.badge-i-os-3 {
+  cursor: pointer;
+  height: 58px;
+  position: relative;
+  width: 218px;
+}
+
+.badge-android-4 {
+  background-color: var(--valentino);
+  border-radius: 53.33px;
+  gap: 13px;
+  height: 58px;
+  padding: 8px 26px;
+  width: 218px;
+}
+
+.anroid-svg-7 {
+  height: 33.49px;
+  position: relative;
+  width: 29.95px;
+}
+
+.frame-1948756427-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948756542-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948756537-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.frame-79-2 {
+  height: 56px;
+  position: relative;
+  width: 24.89px;
+}
+
+.frame-1948756538-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.trusted-by-60000-couples-2 {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.frame-1948756428-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 4px;
+}
+
+.star-streamline-block-free-2 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.recent-reviews-about-nemlys-app-2 {
+  align-self: stretch;
+  letter-spacing: -3.20px;
+  line-height: 67.7px;
+  position: relative;
+  text-align: center;
+}
+
+.frame-19487564-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 40px;
+  flex-direction: column;
+  gap: 24px;
+  padding: 40px;
+}
+
+.i-use-nemlys-with-my-2 {
+  align-self: stretch;
+  letter-spacing: -0.36px;
+  line-height: 26px;
+  position: relative;
+}
+
+.frame-19487564-5 {
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+.frame-1948756405-8 {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.frame-1948756405-9 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.by-mark-2 {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.nemlys-is-great-for-2 {
+  align-self: stretch;
+  letter-spacing: -0.36px;
+  line-height: 26px;
+  position: relative;
+}
+
+.frame-1948756405-10 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.by-anna-2 {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.my-boyfriend-and-i-l-2 {
+  align-self: stretch;
+  letter-spacing: -0.36px;
+  line-height: 26px;
+  position: relative;
+}
+
+.frame-1948756405-11 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.by-james-2 {
+  align-self: stretch;
+  letter-spacing: 0.28px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.frame-1948756426-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.similar-posts-2 {
+  align-self: stretch;
+  letter-spacing: -3.20px;
+  line-height: 67.7px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.frame-1948756421-4 {
+  justify-content: center;
+}
+
+.frame-1948756421-item-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 40px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  padding: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1948756422-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 4px;
+  position: relative;
+}
+
+.footer-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: var(--violet900);
+  border-radius: 30px;
+  display: flex;
+  gap: 10px;
+  height: 880.88px;
+  justify-content: center;
+  padding: 0px 37px;
+  position: relative;
+  width: 100%;
+}
+
+.group-1948755476-1 {
+  height: 133.95px;
+  position: relative;
+  width: 611.79px;
+}
+
+.select-container-2 {
+  align-items: center;
+  height: 55px;
+  left: 59px;
+  min-width: 488px;
+  top: 6px;
+}
+
+.select-10 {
+  align-self: flex-end;
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  gap: 12.68px;
+  margin-left: 23px;
+  padding: 19.03px;
+  transform: rotate(-2.96deg);
+  width: 81px;
+}
+
+.label-8 {
+  letter-spacing: 0.13px;
+  line-height: 15.9px;
+}
+
+.select-11 {
+  align-self: flex-start;
+  background-color: var(--purple300);
+  border-radius: 15.86px;
+  box-shadow: 0px 3.55px 21.32px #1a052f26;
+  gap: 12.68px;
+  margin-left: 21px;
+  padding: 19.03px;
+  transform: rotate(4.64deg);
+  width: 149px;
+}
+
+.select-12 {
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  gap: 12.68px;
+  margin-left: 17px;
+  margin-top: 1.1px;
+  padding: 19.03px;
+  transform: rotate(-4.00deg);
+  width: 123px;
+}
+
+.label-9 {
+  letter-spacing: 0.13px;
+  line-height: 15.9px;
+  margin-left: -0.13px;
+  margin-right: -0.13px;
+}
+
+.select-container-3 {
+  align-items: flex-end;
+  height: 65px;
+  left: 2px;
+  min-width: 608px;
+  top: 65px;
+}
+
+.select-13 {
+  align-self: center;
+  background-color: var(--purple300);
+  border-radius: 17.07px;
+  box-shadow: 0px 3.55px 21.32px #1a052f26;
+  gap: 13.66px;
+  margin-top: 4.61px;
+  padding: 20.48px;
+  transform: rotate(-4.00deg);
+  width: 100px;
+}
+
+.label-10 {
+  letter-spacing: 0.14px;
+  line-height: 16.9px;
+  margin-bottom: -0.05px;
+  margin-left: -0.34px;
+  margin-right: -0.34px;
+  margin-top: -1.76px;
+}
+
+.select-14 {
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  gap: 12.68px;
+  margin-left: 19px;
+  padding: 19.03px;
+  transform: rotate(-3.10deg);
+  width: 141px;
+}
+
+.label-11 {
+  letter-spacing: 0.13px;
+  line-height: 15.9px;
+  margin-left: -0.23px;
+  margin-right: -0.23px;
+}
+
+.select-15 {
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  gap: 12.68px;
+  margin-bottom: 3.94px;
+  margin-left: 12px;
+  padding: 19.03px;
+  transform: rotate(-4.59deg);
+  width: 91px;
+}
+
+.label-12 {
+  letter-spacing: 0.13px;
+  line-height: 15.9px;
+  margin-left: -0.31px;
+  margin-right: -0.31px;
+}
+
+.select-16 {
+  background-color: var(--hint-of-red);
+  border-radius: 15.86px;
+  gap: 12.68px;
+  margin-bottom: 3.53px;
+  margin-left: 16px;
+  padding: 19.03px;
+  transform: rotate(-1.49deg);
+  width: 103px;
+}
+
+.select-17 {
+  align-self: flex-start;
+  background-color: var(--purple300);
+  border-radius: 17.07px;
+  box-shadow: 0px 3.58px 21.47px #1a052f26;
+  gap: 13.66px;
+  margin-left: 16px;
+  padding: 20.48px;
+  transform: rotate(-5.53deg);
+  width: 109px;
+}
+
+.label-13 {
+  letter-spacing: 0.14px;
+  line-height: 17.1px;
+  margin-bottom: -0.05px;
+  margin-left: -0.10px;
+  margin-right: -0.10px;
+  margin-top: -1.76px;
+}
+
+.title-17 {
+  align-self: stretch;
+  letter-spacing: -1.92px;
+  line-height: 67px;
+  position: relative;
+  text-align: center;
+}
+
+.anroid-svg-8 {
+  height: 33.49px;
+  position: relative;
+  width: 29.95px;
+}
+
+.frame-1948756414-1 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  justify-content: center;
+  left: 242px;
+  position: absolute;
+  top: 51px;
+  width: 178px;
+}
+
+.frame-1948756535-1 {
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 663px;
+}
+
+.frame-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.group-1948755477 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  height: 34.2px;
+  min-width: 142.57px;
+}
+
+.group-1948755477-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  height: 34.2px;
+  min-width: 142.57px;
+}
+
+.group-1948755477-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  height: 34.2px;
+  min-width: 142.57px;
+}

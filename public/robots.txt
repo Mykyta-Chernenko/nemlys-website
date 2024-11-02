@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nemlys.com/sitemap.xml
